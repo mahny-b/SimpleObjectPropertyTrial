@@ -1,0 +1,2 @@
+# SimpleObjectPropertyTrial
+SimpleObjectPropertyの使い方
